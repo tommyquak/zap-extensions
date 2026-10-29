@@ -4,7 +4,11 @@ All notable changes to this add-on will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## Unreleased
+### Added
+- The SOAP XML Injection scan rule now includes example alert functionality for documentation generation purposes (Issue 6119).
 
+### Changed
+- The SOAP XML Injection scan rule now raises its alerts with distinct alert references (90029-1 and 90029-2).
 
 ## [32] - 2026-08-12
 ### Added
